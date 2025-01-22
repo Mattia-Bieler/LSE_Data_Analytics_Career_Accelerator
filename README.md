@@ -74,5 +74,5 @@ __Learning Outcomes:__
 
 __Assessment:__ Referring to a given dataset and corresponding business scenario, use Python and R to perform an exploratory data analysis to predict future outcomes. Make business recommendations based on those predictions using visualisations and communicate key insights.
 
-## Employer Project:
+## Employer Project
 Collaborated with fellow learners on a real-world employer project that served as the culmination of the skills acquired in the first three courses. This project, meticulously designed by FourthRev, a leading technology company, mirrored the practical skills demanded by the industry. It necessitated the synthesis of methods and techniques developed throughout the courses, all rooted in a genuine employer need and interest. This hands-on experience not only showcased proficiency but also provided invaluable insights into applying learned concepts to real-world scenarios.
